@@ -1,2 +1,2 @@
 # automatic-adventure
-# doom scrolling
+doom scrolling
